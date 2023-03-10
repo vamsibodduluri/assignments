@@ -1,0 +1,8 @@
+Java 8 features:
+
+- Lambda Expressions
+- Stream API's
+- Functional Interface
+- forEach() method in Iterable interface
+- default and static methods in interfaces
+- Date/time API
